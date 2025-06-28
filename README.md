@@ -13,8 +13,9 @@
 Analyze Zepto's product and inventory dataset using SQL to answer business questions related to pricing, stock availability, product categories, and revenue generation.
 
 ## 📁 Project Structure
-- queries/zepto_analysis_queries.sql – Contains all business queries and insights
-- data/zepto_data.csv – Dataset used for analysis
+- [queries/zepto_analysis_queries.sql](queries/zepto_analysis_queries.sql) – Contains all business queries and insights
+- [data/zepto_data.csv](data/zepto_data.csv) – Dataset used for analysis
+-
 
 ## 🛠 Tools & Skills Used
 - PostgreSQL
